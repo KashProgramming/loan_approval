@@ -3,7 +3,9 @@
 A Machine Learning web app that predicts whether a loan application should be **approved or rejected** based on applicant financial, personal, and credit history details.
 
 🚀 **Live Demo**: [Loan Approval Prediction](https://loan-approval-m9xu.onrender.com)
+
 📌 **Tech Stack**: Python · Flask · Scikit-learn · HTML/CSS
+
 🧠 **Model Used**: Logistic Regression (best-performing classifier with a test accuracy of 99.9857%)
 
 ---
